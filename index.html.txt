@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BinZaman Apparels</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="BinZaman Apparels Logo" id="logo">
+        <h1>BinZaman Apparels</h1>
+    </header>
+    <main>
+        <section id="products">
+            <div class="product">
+                <img src="handbag.jpg" alt="Handbag">
+                <h2>Handbags</h2>
+                <p>Description of handbags</p>
+                <p>Price</p>
+            </div>
+            <div class="product">
+                <img src="clothes.jpg" alt="Clothes">
+                <h2>Clothes</h2>
+                <p>Description of clothes</p>
+                <p>Price</p>
+            </div>
+            <div class="product">
+                <img src="tshirt.jpg" alt="T-Shirts">
+                <h2>T-Shirts</h2>
+                <p>Description of T-Shirts</p>
+                <p>Price</p>
+            </div>
+            <div class="product">
+                <img src="sandals.jpg" alt="Sandals">
+                <h2>Sandals</h2>
+                <p>Description of sandals</p>
+                <p>Price</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div id="footer-links">
+            <a href="#contact">Contact Us</a>
+            <a href="#about">About Us</a>
+            <a href="#social">Social Links</a>
+        </div>
+        <p>BinZaman Apparels offers the finest ladies’ fashion, blending elegance and style in every piece.</p>
+    </footer>
+</body>
+</html>
